@@ -1,3 +1,16 @@
+# Monsters Rolodex
+
+    - It's a Single-Page Application(SPA) in React. It is a simple aplication to understand how react works.
+    - We have some monsters and we can search for a specific one. It will render and re-render fast, the results.
+
+<p align="center">
+  <img src="./screenshots/example1.png" width="350" title="Console">
+</p>
+
+<p align="center">
+  <img src="./screenshots/example2.png" width="350" title="Console">
+</p>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
